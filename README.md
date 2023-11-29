@@ -15,6 +15,8 @@ Tic Tac Toe Simulation Game using Java
 
 Output:
 If anyone wins, the game ends.
+![image](https://github.com/Muralidhar-leo/Tic-Tac-Toe/assets/129084859/a345c22b-03a9-4ca0-8625-d3d6b15cc429)
 
-![image](https://github.com/Muralidhar-leo/Tic-Tac-Toe/assets/129084859/d0c48b2a-29ac-4599-bfb6-ed4b7c99ee9c)
+
+
 
